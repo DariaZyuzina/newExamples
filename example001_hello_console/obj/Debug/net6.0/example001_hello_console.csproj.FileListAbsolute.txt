@@ -1,15 +1,15 @@
-/Users/darazuzina/Documents/lesson_c#/example001_hello_console/bin/Debug/net6.0/example001_hello_console
-/Users/darazuzina/Documents/lesson_c#/example001_hello_console/bin/Debug/net6.0/example001_hello_console.deps.json
-/Users/darazuzina/Documents/lesson_c#/example001_hello_console/bin/Debug/net6.0/example001_hello_console.runtimeconfig.json
-/Users/darazuzina/Documents/lesson_c#/example001_hello_console/bin/Debug/net6.0/example001_hello_console.dll
-/Users/darazuzina/Documents/lesson_c#/example001_hello_console/bin/Debug/net6.0/example001_hello_console.pdb
-/Users/darazuzina/Documents/lesson_c#/example001_hello_console/obj/Debug/net6.0/example001_hello_console.csproj.AssemblyReference.cache
-/Users/darazuzina/Documents/lesson_c#/example001_hello_console/obj/Debug/net6.0/example001_hello_console.GeneratedMSBuildEditorConfig.editorconfig
-/Users/darazuzina/Documents/lesson_c#/example001_hello_console/obj/Debug/net6.0/example001_hello_console.AssemblyInfoInputs.cache
-/Users/darazuzina/Documents/lesson_c#/example001_hello_console/obj/Debug/net6.0/example001_hello_console.AssemblyInfo.cs
-/Users/darazuzina/Documents/lesson_c#/example001_hello_console/obj/Debug/net6.0/example001_hello_console.csproj.CoreCompileInputs.cache
-/Users/darazuzina/Documents/lesson_c#/example001_hello_console/obj/Debug/net6.0/example001_hello_console.dll
-/Users/darazuzina/Documents/lesson_c#/example001_hello_console/obj/Debug/net6.0/refint/example001_hello_console.dll
-/Users/darazuzina/Documents/lesson_c#/example001_hello_console/obj/Debug/net6.0/example001_hello_console.pdb
-/Users/darazuzina/Documents/lesson_c#/example001_hello_console/obj/Debug/net6.0/example001_hello_console.genruntimeconfig.cache
-/Users/darazuzina/Documents/lesson_c#/example001_hello_console/obj/Debug/net6.0/ref/example001_hello_console.dll
+/Users/darazuzina/Documents/lesson_c# /example001_hello_console/bin/Debug/net6.0/example001_hello_console
+/Users/darazuzina/Documents/lesson_c# /example001_hello_console/bin/Debug/net6.0/example001_hello_console.deps.json
+/Users/darazuzina/Documents/lesson_c# /example001_hello_console/bin/Debug/net6.0/example001_hello_console.runtimeconfig.json
+/Users/darazuzina/Documents/lesson_c# /example001_hello_console/bin/Debug/net6.0/example001_hello_console.dll
+/Users/darazuzina/Documents/lesson_c# /example001_hello_console/bin/Debug/net6.0/example001_hello_console.pdb
+/Users/darazuzina/Documents/lesson_c# /example001_hello_console/obj/Debug/net6.0/example001_hello_console.csproj.AssemblyReference.cache
+/Users/darazuzina/Documents/lesson_c# /example001_hello_console/obj/Debug/net6.0/example001_hello_console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darazuzina/Documents/lesson_c# /example001_hello_console/obj/Debug/net6.0/example001_hello_console.AssemblyInfoInputs.cache
+/Users/darazuzina/Documents/lesson_c# /example001_hello_console/obj/Debug/net6.0/example001_hello_console.AssemblyInfo.cs
+/Users/darazuzina/Documents/lesson_c# /example001_hello_console/obj/Debug/net6.0/example001_hello_console.csproj.CoreCompileInputs.cache
+/Users/darazuzina/Documents/lesson_c# /example001_hello_console/obj/Debug/net6.0/example001_hello_console.dll
+/Users/darazuzina/Documents/lesson_c# /example001_hello_console/obj/Debug/net6.0/refint/example001_hello_console.dll
+/Users/darazuzina/Documents/lesson_c# /example001_hello_console/obj/Debug/net6.0/example001_hello_console.pdb
+/Users/darazuzina/Documents/lesson_c# /example001_hello_console/obj/Debug/net6.0/example001_hello_console.genruntimeconfig.cache
+/Users/darazuzina/Documents/lesson_c# /example001_hello_console/obj/Debug/net6.0/ref/example001_hello_console.dll

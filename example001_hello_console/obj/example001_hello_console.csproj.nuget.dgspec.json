@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/darazuzina/Documents/lesson_c#/example001_hello_console/example001_hello_console.csproj": {}
+    "/Users/darazuzina/Documents/lesson_c# /example001_hello_console/example001_hello_console.csproj": {}
   },
   "projects": {
-    "/Users/darazuzina/Documents/lesson_c#/example001_hello_console/example001_hello_console.csproj": {
+    "/Users/darazuzina/Documents/lesson_c# /example001_hello_console/example001_hello_console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/darazuzina/Documents/lesson_c#/example001_hello_console/example001_hello_console.csproj",
+        "projectUniqueName": "/Users/darazuzina/Documents/lesson_c# /example001_hello_console/example001_hello_console.csproj",
         "projectName": "example001_hello_console",
-        "projectPath": "/Users/darazuzina/Documents/lesson_c#/example001_hello_console/example001_hello_console.csproj",
+        "projectPath": "/Users/darazuzina/Documents/lesson_c# /example001_hello_console/example001_hello_console.csproj",
         "packagesPath": "/Users/darazuzina/.nuget/packages/",
-        "outputPath": "/Users/darazuzina/Documents/lesson_c#/example001_hello_console/obj/",
+        "outputPath": "/Users/darazuzina/Documents/lesson_c# /example001_hello_console/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/darazuzina/.nuget/NuGet/NuGet.Config"
